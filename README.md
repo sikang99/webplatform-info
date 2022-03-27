@@ -6,6 +6,9 @@
 - QUIC
 - UDP
 
+### Standards
+- [WebTransport](https://w3c.github.io/webtransport/), Editor’s Draft, 23 March 2022
+
 
 ### Articles
 - 2022/02/28 [What is WebTransport and can it replace WebSockets?](https://ably.com/blog/can-webtransport-replace-websockets)
