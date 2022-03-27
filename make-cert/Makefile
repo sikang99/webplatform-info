@@ -18,5 +18,9 @@ fingerprint fp:
 	openssl pkcs12 -export -in cert.pem -inkey cert.key -out cert.pfx
 	openssl pkcs12 -in cert.pfx -nodes | openssl x509 -noout -fingerprint
 
+util:
+	pk12util -i cert.pfx -n "Test Certificate" -d nss_db
+	certutil -L -d nss_db
+
 
 
