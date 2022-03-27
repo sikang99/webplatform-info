@@ -22,6 +22,7 @@
 ### Information
 - Chrome [WebTransport API](https://github.com/chromium/chromium/tree/master/third_party/blink/renderer/modules/webtransport)
 - Chrome Platform Status: [WebTransport](https://chromestatus.com/feature/4854144902889472)
+- [Blink>Network>WebTransport](https://bugs.chromium.org/p/chromium/issues/list?q=component:Blink%3ENetwork%3EWebTransport)
 - [WebTransport over HTTP/3 client](https://googlechrome.github.io/samples/webtransport/client.html)
 - [voluntas's Memo](https://zenn.dev/voluntas/scraps/b776c706a1811a)
 
