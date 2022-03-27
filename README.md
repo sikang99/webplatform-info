@@ -7,7 +7,8 @@
 - UDP
 
 ### Standards
-- [WebTransport](https://w3c.github.io/webtransport/), Editor’s Draft, 23 March 2022
+- W3C: [WebTransport](https://w3c.github.io/webtransport/), Editor’s Draft, 23 March 2022
+- IETF: [WebTransport (webtrans)](https://datatracker.ietf.org/wg/webtrans/documents/)
 
 
 ### Articles
