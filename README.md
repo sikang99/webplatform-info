@@ -8,6 +8,7 @@
 
 ### Standards
 - W3C: [WebTransport](https://w3c.github.io/webtransport/), Editor’s Draft, 23 March 2022
+    - [QUIC API for Peer-to-peer Connections](https://w3c.github.io/p2p-webtransport/), Draft Community Group Report 03 March 2022
 - IETF: [WebTransport (webtrans)](https://datatracker.ietf.org/wg/webtrans/documents/)
     - [The WebTransport Protocol Framework](https://www.ietf.org/archive/id/draft-ietf-webtrans-overview-03.html), 7 March 2022
     - [WebTransport over HTTP/3](https://www.ietf.org/archive/id/draft-ietf-webtrans-http3-02.html), 25 October 2021
