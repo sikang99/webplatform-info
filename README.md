@@ -14,6 +14,7 @@
 ### Information
 - Chrome Platform Status: [WebTransport](https://chromestatus.com/feature/4854144902889472)
 - [WebTransport over HTTP/3 client](https://googlechrome.github.io/samples/webtransport/client.html)
+- [voluntas's Memo](https://zenn.dev/voluntas/scraps/b776c706a1811a)
 
 
 ### Open Source
