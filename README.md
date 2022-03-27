@@ -9,6 +9,9 @@
 ### Standards
 - W3C: [WebTransport](https://w3c.github.io/webtransport/), Editor’s Draft, 23 March 2022
 - IETF: [WebTransport (webtrans)](https://datatracker.ietf.org/wg/webtrans/documents/)
+    - [WebTransport over HTTP/3](https://www.ietf.org/archive/id/draft-ietf-webtrans-http3-02.html)
+    - [WebTransport using HTTP/2](https://www.ietf.org/archive/id/draft-ietf-webtrans-http2-03.html)
+
 
 
 ### Articles
