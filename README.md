@@ -29,7 +29,7 @@
 - [Blink>Network>WebTransport](https://bugs.chromium.org/p/chromium/issues/list?q=component:Blink%3ENetwork%3EWebTransport)
 - [WebTransport over HTTP/3 client](https://googlechrome.github.io/samples/webtransport/client.html)
 - [voluntas's Memo](https://zenn.dev/voluntas/scraps/b776c706a1811a) - Japan
-- [noteedit's Memo](https://zhuanlan.zhihu.com/p/351248426) - China
+- [notedit's Memo](https://zhuanlan.zhihu.com/p/351248426) - China
 
 
 ### Open Source (golang)
